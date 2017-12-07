@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[2]:
-
 from negex import * #meaning import everything from negex
 import csv
 
@@ -33,9 +29,6 @@ def main():
     ofile.close()
 
 if __name__ == '__main__': main()
-
-
-# In[ ]:
 
 
 
